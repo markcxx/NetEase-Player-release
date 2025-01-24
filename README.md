@@ -16,19 +16,19 @@ NetEase Player 是一款强大且实用的音乐播放器，专为播放付费�
 
 通过内置的搜索引擎功能，用户可以快速查找和播放自己喜欢的音乐。
 
-![image](./Image/picture 1.png)
+![image](https://github.com/markcxx/NetEase-Player-release/blob/main/Image/picture%201.png?raw=true)
 
 ##### 扫码登录网易云音乐
 
 用户可以通过扫码轻松登录自己的网易云账号，获取并播放“我喜欢的音乐”列表。
 
-![image](./Image/picture 2.png)
+![image](https://github.com/markcxx/NetEase-Player-release/blob/main/Image/picture%202.png?raw=true)
 
 ##### 支持付费音乐和免费音乐
 
 无论是会员专属音乐还是免费音乐，均可流畅播放。
 
-![image](./Image/picture 3.png)
+![image](https://github.com/markcxx/NetEase-Player-release/blob/main/Image/picture%203.png?raw=true)
 
 ##### 音乐 MV 播放
 
