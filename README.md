@@ -17,13 +17,11 @@
   </a>
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/PyQt5-5.15.11-brightgreen?color=FFB200
-    " alt="PyQt 5.15.11"/>
+    <img src="https://img.shields.io/badge/PyQt5-5.15.11-brightgreen?color=FFB200" alt="PyQt 5.15.11"/>
   </a>
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Platform-Win32%7CLinux%7CmacOS-brightgreen?color=FFB200
-    " alt="Platform Win32 | Linux | macOS"/>
+    <img src="https://img.shields.io/badge/Platform-Win32%7CLinux%7CmacOS-brightgreen?color=FFB200" alt="Platform Win32 | Linux | macOS"/>
   </a>
 </p>
 
